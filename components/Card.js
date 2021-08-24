@@ -2,7 +2,7 @@ import Image from './Image'
 import Link from './Link'
 
 const Card = ({ title, description, imgSrc, href }) => (
-  <div className="p-2 w-full">
+  <div className="p-2 w-full mb-4">
     <div className="h-full overflow-hidden border-2 border-gray-500 rounded-md border-opacity-60 dark:border-gray-700">
       {href ? (
         <Link href={href} aria-label={`Link to ${title}`}>
@@ -11,7 +11,7 @@ const Card = ({ title, description, imgSrc, href }) => (
             src={imgSrc}
             className="object-cover object-center lg:h-100"
             width={'100%'}
-            height={806}
+            height={306}
           />
         </Link>
       ) : (
@@ -19,8 +19,8 @@ const Card = ({ title, description, imgSrc, href }) => (
           alt={title}
           src={imgSrc}
           className="object-cover object-center lg:h-50 md:h-36"
-          width={544}
-          height={506}
+          width={'100%'}
+          height={306}
         />
       )}
       <div className="p-6">
