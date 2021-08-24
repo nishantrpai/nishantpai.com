@@ -41,7 +41,7 @@ Considering our own case:
 
 Turns out, GatsbyJS is the perfect solution that we are looking for.
 
-![How It Works](./how_gatsbyjs_works.png)
+![How It Works](/static/images/how_gatsbyjs_works.png)
 
 1. They support Markdown! 😍
 
@@ -68,7 +68,7 @@ If you observe the image, where we described how GatsbyJS works, you can observe
 
 If you see
 
-![deploy](./deploy_gatsby.jpg)
+![deploy](/static/images/deploy_gatsby.jpg)
 there is an option on the gatsby <a href="https://www.gatsbyjs.org/starters/codebushi/gatsby-starter-dimension/" target="_blank">page</a> to deploy to Netlify directly, we are going to use that.
 
 4. If you have a Netlify account *kudos!*. If not, no problem! Netlify has a free option. Allow Netlify to use your gitlab or other git account.

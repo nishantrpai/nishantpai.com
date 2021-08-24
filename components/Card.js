@@ -10,7 +10,7 @@ const Card = ({ title, description, imgSrc, href }) => (
             alt={title}
             src={imgSrc}
             className="object-cover object-center lg:h-100"
-            width={'100%'}
+            width="100%"
             height={306}
           />
         </Link>
@@ -19,7 +19,7 @@ const Card = ({ title, description, imgSrc, href }) => (
           alt={title}
           src={imgSrc}
           className="object-cover object-center lg:h-50 md:h-36"
-          width={'100%'}
+          width="100%"
           height={306}
         />
       )}

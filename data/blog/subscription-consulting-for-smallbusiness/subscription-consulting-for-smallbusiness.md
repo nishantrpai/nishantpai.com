@@ -27,11 +27,11 @@ But, small businesses have their own set of problems to deal with.
 
 Over 96 percent of companies are SMBs - with less than 50 employees; of these most of the companies are small SMBs, with less than 10 employees.
 
-![number of firms](./number-of-firms.png)
+![number of firms](/static/images/number-of-firms.png)
 
 By the sheer numbers of SMEs and SMBs it seems that they collectively might be making more than the larger few corporations, but the story is completely different in terms of who has more revenue share.
 
-![distribution](./distribution-by-revenue.png)
+![distribution](/static/images/distribution-by-revenue.png)
 
 If you co-relate the number of firms and the distribution of revenue based on the firm size.
 

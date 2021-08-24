@@ -4,7 +4,7 @@ const siteMetadata = {
   headerTitle: 'Nishant Pai',
   description: 'Blog is an archive of my observations and experiments',
   language: 'en-us',
-  siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
+  siteUrl: 'https://nishantpai.com',
   siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',

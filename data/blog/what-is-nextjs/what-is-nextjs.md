@@ -198,7 +198,7 @@ From the above points, it seems Next.js may only be used for static websites, bu
 
 AMP pages are Accelerated Mobile Pages. AMP pages are optimized for mobile use, slower websites have very high bounce rates with AMP you can serve visitors quicker. AMP is said to be a signal on Google mobile search index. If you google for any article or topic, you can see these AMP pages on the top of the search index.
 
-![amp gif](./amp_google.gif)
+![amp gif](/static/images/amp_google.gif)
 
 
 *Everyone: How are AMP pages different from normal webpages?*
@@ -380,4 +380,4 @@ Cool! we extended our example to be used as an AMP too.
 
 5. If you want to check out the project, you check out the Next.js example that we worked on [here](https://github.com/nishantrpai/nextjs-prj), for the AMP Page example you can check it out [here](https://github.com/nishantrpai/nextjs-prj/tree/amp-pages) and the official Next.js examples [here](https://github.com/zeit/next.js/tree/canary/examples).
 
-![bye](./bye.gif)
+![bye](/static/images/bye.gif)

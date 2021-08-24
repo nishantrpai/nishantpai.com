@@ -20,7 +20,7 @@ GraphQL has two implementations for API wrappers as well:
 
 1.**Server side**:
 
-![server wrapper](./s_w.png)
+![server wrapper](/static/images/s_w.png)
 
 *OC illustration to explain server side wrapper*👏
 
@@ -341,11 +341,11 @@ module.exports = new GraphQLSchema({ //essentially our schema string from previo
 
 -Listing all the post titles
 
-![post titles](./posts.png)
+![post titles](/static/images/posts.png)
 
 -Listing the post details for `id:1` 
 
-![post](./post.png)
+![post](/static/images/post.png)
 
 That's a wrap on server side wrapper, you can check the repo [here](https://github.com/nishantrpai/graphql-server-wrapper) for server side wrapper. If you want to look at a more comprehensive example with loaders you can check out [GraphQL official documentation](https://graphql.org/blog/rest-api-graphql-wrapper/#a-server-side-rest-wrapper) for server side wrapper.
 
@@ -355,7 +355,7 @@ Hopefully, you got an idea on how server side wrapper for GraphQL works.
 
 2.**Client Side Wrapper** 
 
-![server wrapper](./c_w.png)
+![server wrapper](/static/images/c_w.png)
 
 *share this blog more such OC illustrations* 😅
 

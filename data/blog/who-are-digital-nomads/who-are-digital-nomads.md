@@ -28,11 +28,11 @@ A good correlation to this is how co-working spaces, and services like Airbnb ha
 
 - Google search trends for [airbnb]((https://trends.google.com/trends/explore?date=all&q=airbnb)).
 
-![airbnb](./airbnb.png)
+![airbnb](/static/images/airbnb.png)
 
 - Google search trends for [co-working spaces](https://trends.google.com/trends/explore?date=all&q=co-working%20space).
 
-![co working](./co_working.png)
+![co working](/static/images/co_working.png)
 
 
 *What kind of work do they do?*
@@ -73,11 +73,11 @@ Clearly, there is no shortage of resources to find remote work, but not all jobs
 
 Something quite surprising was the unusual peak and fall in remote work for User experience.
 
-![ux graph](./ux_graph.png)
+![ux graph](/static/images/ux_graph.png)
 
 and then for game developers, initially it seemed more favorable for remote, but has been dipping.
 
-![gamedev graph](./gamedev_graph.png)
+![gamedev graph](/static/images/gamedev_graph.png)
 
 *How many people are working remotely?*
 
@@ -85,7 +85,7 @@ To find that out, we wanted to see since when has this trend started to catch up
 
 We decided to check the trends for digital nomad subreddit.
 
-![digitalnomad graph](./digitalnomad.png)
+![digitalnomad graph](/static/images/digitalnomad.png)
 
 The graph definitely doesn't indicate that there are ~400k digital nomads in 2019, but that there are certainly a lot number of people interested in working remotely.
 
@@ -97,7 +97,7 @@ An important question to ask is how most digital nomads feel regarding their wor
 
 What is the weekly workload for digital nomads?
 
-![workload](./workload_digitalnomads.png)
+![workload](/static/images/workload_digitalnomads.png)
 
 Knowledge work shouldn't be calculated in hours, but most digital nomads seem to have **equal if not more workload than the usual 9-5 jobs**. IT workers on average have a 52 hour workweek, so seems pretty close to it.
 
@@ -106,7 +106,7 @@ Knowledge work shouldn't be calculated in hours, but most digital nomads seem to
 
 How do digital nomads feel regarding their salaries?
 
-![salary](./salary_compensation.png)
+![salary](/static/images/salary_compensation.png)
 
 Seems on an average digital nomads are very likely to feel their salaries are **just right or underpaid**.
 
@@ -114,7 +114,7 @@ Seems on an average digital nomads are very likely to feel their salaries are **
 
 What is the startup size like where remote workers work?
 
-![startup size](./startup_size.png)
+![startup size](/static/images/startup_size.png)
 
 So it's more likely that companies of employee size **200+ are more likely** to hire remote workers.
 

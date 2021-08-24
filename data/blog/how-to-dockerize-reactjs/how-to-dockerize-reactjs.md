@@ -6,8 +6,6 @@ tags: ['docker','react.js']
 images: ["https://images.unsplash.com/photo-1493946740644-2d8a1f1a6aff?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1368&q=80"]
 ---
 
-> Archive from old blogs
-
 ![cover](https://images.unsplash.com/photo-1493946740644-2d8a1f1a6aff?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1368&q=80)
 
 > Note: Docker is used for deploying apps in general, for this post we are sticking to how you can deploy a React app using docker.
@@ -28,7 +26,7 @@ A good example of how dockers are helpful is say you are using Windows for build
 
 This is how the magic happens, 
 
-![docker](./docker_overview.png)
+![docker](/static/images/docker_overview.png)
 
 This may seem a bit confusing, so let's break it
 
