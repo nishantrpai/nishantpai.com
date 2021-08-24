@@ -14,6 +14,10 @@
 public/sitemap.xml
 .vercel
 
+#lock files
+yarn.lock
+package-lock.json
+
 # production
 /build
 *.xml
