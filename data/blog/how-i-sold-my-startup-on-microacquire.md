@@ -30,7 +30,7 @@ This event above is when I registered on Microacquire.
 
 **Stripe is the payment gateway for receiving payments online.
 
-This step is done for knowing how many customers you have, also helps with startup valuation.**
+This step is done for knowing how many customers you have, also helps with startup valuation.
 
 *****Jun 23 2021 10:48:21: Profile needs to approved by admin, let's see how it goes.***
 
@@ -38,9 +38,9 @@ This step is done for knowing how many customers you have, also helps with start
 
 The questionnaire was about preparing for things to keep in mind before selling your startup on Microacquire.
 
-***Jun 23 2021 16:41:51: Went through the process on gmail for microacquire, interesting way. Need to make a pitch deck.\
-**\
-*Was planning to make a pitch deck, but once I got access, I only filled the required fields for listing my startup.
+***Jun 23 2021 16:41:51: Went through the process on gmail for microacquire, interesting way. Need to make a pitch deck.**
+
+Was planning to make a pitch deck, but once I got access, I only filled the required fields for listing my startup.
 
 Required fields were:\
 - Startup Type\
