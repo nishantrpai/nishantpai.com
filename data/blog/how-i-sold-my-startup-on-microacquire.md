@@ -138,9 +138,9 @@ If you don't know, escrow is a middleman that:\
 
 Received the transaction completion on Dhanteras, which is a day when you celebrate wealth and prosperity in India. I'll take that as a yes from the gods.
 
-**Nov 10 2021 18:40: Finished up the sale, got the money.
+**Nov 10 2021 18:40: Finished up the sale, got the money.**
 
-**The transaction was initiated on November 2, since this was a international wire, it took more days than expected.
+The transaction was initiated on November 2, since this was a international wire, it took more days than expected.
 
 Came back from my evening walk, checked my phone and got this notification.
 
