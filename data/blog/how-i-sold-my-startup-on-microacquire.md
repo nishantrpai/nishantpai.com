@@ -42,15 +42,15 @@ The questionnaire was about preparing for things to keep in mind before selling 
 
 Was planning to make a pitch deck, but once I got access, I only filled the required fields for listing my startup.
 
-Required fields were:\
-- Startup Type\
-- Description\
-- Competitors\
-- Growth Opportunity\
-- Assets\
-- Reason for selling\
-- Asking price\
-- Number of customers currently\
+Required fields were:
+- Startup Type
+- Description
+- Competitors
+- Growth Opportunity
+- Assets
+- Reason for selling
+- Asking price
+- Number of customers currently
 - MRR
 
 Filled the required fields and submitted.
@@ -123,10 +123,10 @@ Sept 6, Jay Gilden, founder of Openly reached out on Twitter, he was interested.
 After some back and forth, finally in the last week of October we settled.\
 Jay sent me the purchase agreement, I signed it.
 
-If you don't know, escrow is a middleman that:\
-1\. Takes payment from seller\
-2\. Verifies that assets are transferred from seller to buyer\
-3\. Sends the payment to seller
+If you don't know, escrow is a middleman that:
+1. Takes payment from seller
+2. Verifies that assets are transferred from seller to buyer
+3. Sends the payment to seller
 
 - Jay sent escrow $3k.
 
@@ -154,17 +154,17 @@ Everyone was happy and supportive.
 
 Felt great.
 
-* * * * *\
+* * * * *
 I hope Jay makes >100x on this investment :)
 
 That's how I sold my startup. Hope you enjoyed it.
 
-References:\
-- [Twitter thread](https://twitter.com/PaiNishant/status/1407540141325918212)\
-- https://microacquire.com\
-- https://twitter.com/agazdecki\
-- https://twitter.com/GildenJay\
-- https://openly.com.au/\
-- https://privacysanta.com\
-- https://escrow.com\
+References:
+- [Twitter thread](https://twitter.com/PaiNishant/status/1407540141325918212)
+- https://microacquire.com
+- https://twitter.com/agazdecki
+- https://twitter.com/GildenJay
+- https://openly.com.au/
+- https://privacysanta.com
+- https://escrow.com
 - https://en.wikipedia.org/wiki/Dhanteras
