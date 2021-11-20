@@ -1,7 +1,7 @@
 ---
 title: How I sold my startup on Microacquire
 date: '2021-11-20'
-tags: ['markdown', 'code', 'features']
+tags: ['startup','document']
 draft: false
 summary: Document of how I sold my startup on Microacquire
 ---
