@@ -3,7 +3,7 @@ title: How I sold my startup on Microacquire
 date: '2021-11-20'
 tags: ['startup','document']
 draft: false
-summary: Document of how I sold my startup on Microacquire
+summary: Events and experience of how I sold my startup
 ---
 
 [![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F79732863-3125-4935-aee9-eee0ea73824d_1470x980.jpeg)](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F79732863-3125-4935-aee9-eee0ea73824d_1470x980.jpeg)
