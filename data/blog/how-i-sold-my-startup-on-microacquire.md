@@ -26,19 +26,19 @@ My motivation was purely to help another entrepreneur get to market faster, I ha
 
 This event above is when I registered on Microacquire.
 
-***Jun 23 2021 10:43:25: Connecting to stripe and sharing the stripe details.*****
+***Jun 23 2021 10:43:25: Connecting to stripe and sharing the stripe details.***
 
-**Stripe is the payment gateway for receiving payments online.
+Stripe is the payment gateway for receiving payments online.
 
 This step is done for knowing how many customers you have, also helps with startup valuation.
 
-*****Jun 23 2021 10:48:21: Profile needs to approved by admin, let's see how it goes.***
+***Jun 23 2021 10:48:21: Profile needs to approved by admin, let's see how it goes.***
 
 ***Jun 23 2021 16:26:55: Got a questionnaire from Andrew, need to take a look at it.***
 
 The questionnaire was about preparing for things to keep in mind before selling your startup on Microacquire.
 
-***Jun 23 2021 16:41:51: Went through the process on gmail for microacquire, interesting way. Need to make a pitch deck.**
+***Jun 23 2021 16:41:51: Went through the process on gmail for microacquire, interesting way. Need to make a pitch deck.***
 
 Was planning to make a pitch deck, but once I got access, I only filled the required fields for listing my startup.
 
@@ -55,7 +55,7 @@ Required fields were:\
 
 Filled the required fields and submitted.
 
-***Jun 24 2021 10:54:34: Got 3 offers from microacquire, just got another to schedule a call to explain. 1 buyer which I am really looking forward to is** ██████*
+***Jun 24 2021 10:54:34: Got 3 offers from microacquire, just got another to schedule a call to explain. 1 buyer which I am really looking forward to is*** ██████
 
 I can't disclose the buyers name, for the sake of continuity let's call them Buyer#1 and Buyer#2.
 
