@@ -18,7 +18,8 @@ Here's how I did it
 
 [![Twitter avatar for @PaiNishant](https://cdn.substack.com/image/twitter_name/w_36/PaiNishant.jpg)nishant @PaiNishant
 
-Wonder if I could sell](https://twitter.com/PaiNishant/status/1407540141325918212) [privacysanta.com](http://privacysanta.com) on @microacquire 🤔[![](https://cdn.substack.com/image/fetch/w_600,h_314,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbfd7c7a6-ee99-470f-8481-9a8cacec6bf0_1841x878.jpeg)PrivacysantaGrow your business online 📈, we'll manage your privacy policy 📑💆privacysanta.com](http://privacysanta.com)[1 Retweet](https://twitter.com/PaiNishant/status/1407540141325918212)\
+Wonder if I could sell](https://twitter.com/PaiNishant/status/1407540141325918212) [privacysanta.com](http://privacysanta.com) on @microacquire 🤔
+
 After spending months ideating, building Privacysanta in 2020, I hit a roadblock with customers. Anytime I got some traction, the common question was "Have you verified the policy with a lawyer?"
 
 I spent a month before launching, going through GDPR to verify it was correct, but that answer didn't suffice, and understandably so.
