@@ -16,10 +16,6 @@ Here's how I did it
 
 ***Jun 23 2021 10:41:22: Registered on the website, filling the details. Seems pretty straightforward***
 
-[![Twitter avatar for @PaiNishant](https://cdn.substack.com/image/twitter_name/w_36/PaiNishant.jpg)nishant @PaiNishant
-
-Wonder if I could sell](https://twitter.com/PaiNishant/status/1407540141325918212) [privacysanta.com](http://privacysanta.com) on @microacquire 🤔
-
 After spending months ideating, building Privacysanta in 2020, I hit a roadblock with customers. Anytime I got some traction, the common question was "Have you verified the policy with a lawyer?"
 
 I spent a month before launching, going through GDPR to verify it was correct, but that answer didn't suffice, and understandably so.
