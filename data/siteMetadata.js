@@ -13,6 +13,12 @@ const siteMetadata = {
   twitter: 'https://twitter.com/PaiNishant',
   linkedin: 'https://www.linkedin.com/in/nishantrpai',
   locale: 'en-US',
+  timezone: 'IST',
+  contact: 'nishantrpai@gmail.com',
+  whatIknow: 'Turn Figma/Zeplin designs into React components.',
+  whatIveDone:
+    'Worked 6y as a front-end developer for seed stage startups to enterprise companies.<br/>Built and sold my startup PrivacySanta.',
+  whatnext: 'Build software products for crypto startups and communities.',
   analytics: {
     // supports plausible, simpleAnalytics or googleAnalytics
     plausibleDataDomain: '', // e.g. tailwind-nextjs-starter-blog.vercel.app
