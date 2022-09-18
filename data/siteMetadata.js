@@ -2,7 +2,7 @@ const siteMetadata = {
   title: 'Nishant Pai',
   author: 'Nishant Pai',
   headerTitle: 'Nishant Pai',
-  description: 'Blog is an archive of my observations and experiments',
+  description: 'Hi I am Nishant, I turn Figma/Zeplin designs into React components.',
   language: 'en-us',
   siteUrl: 'https://nishantpai.com',
   siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
