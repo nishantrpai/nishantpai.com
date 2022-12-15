@@ -23,6 +23,13 @@ const projectsData = [
     imgSrc: 'https://0xverify.app/0xverify_discord.png',
     href: 'https://0xverify.app/',
   },
+  {
+    title: 'Tweet2Audio',
+    description: `Listen to tweets as audio while you are busy`,
+    imgSrc:
+      'https://lh3.googleusercontent.com/fVcbuaSC-p9IVYGCtaC-fJB5P0GWb6yR91JfLwmhXl7v_vjIZJ0uO7vaImV-Apzhqz25YqduoS_7iw0dv82NvgeHxw=w640-h400-e365-rj-sc0x00ffffff',
+    href: 'https://chrome.google.com/webstore/detail/tweet2audio/naafncepeohchljcfdjckafdhclikcce',
+  },
   // {
   //   title: 'Privacy Santa (Sold)',
   //   description: `Grow your business online, we'll manage your privacy policy`,
