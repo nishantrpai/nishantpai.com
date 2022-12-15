@@ -1,6 +1,30 @@
 const projectsData = [
   {
-    title: 'Privacy Santa',
+    title: '0xwall',
+    description: `Web3 Paywall any link you want with few clicks. No KYC, no deposit, no documents, no charges on any transaction.`,
+    imgSrc: 'https://0xwall.com/og.png',
+    href: 'https://0xwall.com/',
+  },
+  {
+    title: 'GM Bot',
+    description: `A Discord bot that reacts anytime someone says "GM". Includes features like customizing the reaction, and more.`,
+    imgSrc: 'https://addgmbot.com/og.png',
+    href: 'https://addgmbot.com/',
+  },
+  {
+    title: '0xverify',
+    description: `Verify if a wallet is scam or not`,
+    imgSrc: 'https://0xverify.com/og.png',
+    href: 'https://0xverify.com/',
+  },
+  {
+    title: '0xverify discord Bot',
+    description: `Verify if a wallet is scam or not in discord`,
+    imgSrc: 'https://0xverify.app/0xverify_discord.png',
+    href: 'https://0xverify.com/',
+  },
+  {
+    title: 'Privacy Santa (Sold)',
     description: `Grow your business online, we'll manage your privacy policy`,
     imgSrc: 'https://privacysanta.com/images/preview.jpg',
     href: 'https://privacysanta.com',
@@ -34,7 +58,7 @@ const projectsData = [
     description: `Animates visuals from visualizevalue`,
     imgSrc: 'https://i.imgur.com/4vYjJUE.png',
     href: 'https://visualizevalue.vercel.app/',
-  }
+  },
 ]
 
 export default projectsData
