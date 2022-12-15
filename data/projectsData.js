@@ -14,7 +14,7 @@ const projectsData = [
   {
     title: '0xverify',
     description: `Verify if a wallet is scam or not`,
-    imgSrc: 'https://0xverify.com/og.png',
+    imgSrc: 'https://0xverify.com/0xverify.png',
     href: 'https://0xverify.com/',
   },
   {
