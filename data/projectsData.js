@@ -2,8 +2,8 @@ const projectsData = [
   {
     title: '0xwall',
     description: `Web3 Paywall any link you want with few clicks. No KYC, no deposit, no documents, no charges on any transaction.`,
-    imgSrc: 'https://0xwall.com/og.png',
-    href: 'https://0xwall.com/',
+    imgSrc: 'https://0xwall.app/og.png',
+    href: 'https://0xwall.app/',
   },
   {
     title: 'GM Bot',
@@ -14,14 +14,14 @@ const projectsData = [
   {
     title: '0xverify',
     description: `Verify if a wallet is scam or not`,
-    imgSrc: 'https://0xverify.com/0xverify.png',
-    href: 'https://0xverify.com/',
+    imgSrc: 'https://0xverify.app/0xverify.png',
+    href: 'https://0xverify.app/',
   },
   {
     title: '0xverify discord Bot',
-    description: `Verify if a wallet is scam or not in discord`,
+    description: `Verify if a wallet is scam or not in discord. Protect members from scammers.`,
     imgSrc: 'https://0xverify.app/0xverify_discord.png',
-    href: 'https://0xverify.com/',
+    href: 'https://0xverify.app/',
   },
   // {
   //   title: 'Privacy Santa (Sold)',
