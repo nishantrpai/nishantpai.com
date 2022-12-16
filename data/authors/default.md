@@ -1,5 +1,5 @@
 ---
-name: Nishant Pai
+name: nishu
 avatar: /static/images/avatar.png
 occupation: Indiehacker
 twitter: https://twitter.com/PaiNishant
