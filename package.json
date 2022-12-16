@@ -1,5 +1,5 @@
 {
-  "name": "tailwind-nextjs-starter-blog",
+  "name": "nishu.dev",
   "version": "1.1.0",
   "private": true,
   "scripts": {
@@ -36,7 +36,8 @@
     "remark-math": "^5.0.0",
     "sharp": "^0.28.3",
     "tailwindcss": "^2.2.2",
-    "unist-util-visit": "^4.0.0"
+    "unist-util-visit": "^4.0.0",
+    "webm": "^1.0.0"
   },
   "devDependencies": {
     "@next/bundle-analyzer": "11.1.0",
