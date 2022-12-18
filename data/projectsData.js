@@ -30,6 +30,13 @@ const projectsData = [
       'https://lh3.googleusercontent.com/fVcbuaSC-p9IVYGCtaC-fJB5P0GWb6yR91JfLwmhXl7v_vjIZJ0uO7vaImV-Apzhqz25YqduoS_7iw0dv82NvgeHxw=w640-h400-e365-rj-sc0x00ffffff',
     href: 'https://chrome.google.com/webstore/detail/tweet2audio/naafncepeohchljcfdjckafdhclikcce',
   },
+  {
+    title: 'Rarity Score',
+    description: `Rarity Score is a tool to calculate the rarity of a NFT`,
+    imgSrc:
+      'https://opengraph.githubassets.com/082e76b287c2665d97f1b38ac5e04d4230080848f770967c1e54c41e87ff7374/nishantrpai/rarity-score',
+    href: 'https://github.com/nishantrpai/rarity-score',
+  },
   // {
   //   title: 'Privacy Santa (Sold)',
   //   description: `Grow your business online, we'll manage your privacy policy`,
