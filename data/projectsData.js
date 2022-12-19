@@ -21,7 +21,7 @@ const projectsData = [
     title: '0xverify discord Bot',
     description: `Verify if a wallet is scam or not in discord. Protect members from scammers.`,
     imgSrc: 'https://0xverify.app/0xverify_discord.png',
-    href: 'https://0xverify.app/',
+    href: 'https://0xverify.app/discord',
   },
   {
     title: 'Tweet2Audio',
