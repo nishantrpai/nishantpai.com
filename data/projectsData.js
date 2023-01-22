@@ -12,6 +12,12 @@ const projectsData = [
     href: 'https://addgmbot.com/',
   },
   {
+    title: 'Spell Vault',
+    description: `Unlock the secrets of the web with Spellvault - the bot that brings you the most relevant posts for any keyword`,
+    imgSrc: 'https://spellvault.app/og.png',
+    href: 'https://spellvault.app'
+  },
+  {
     title: '0xverify',
     description: `Verify if a wallet is scam or not`,
     imgSrc: 'https://0xverify.app/0xverify.png',
@@ -29,12 +35,6 @@ const projectsData = [
     imgSrc:
       'https://lh3.googleusercontent.com/fVcbuaSC-p9IVYGCtaC-fJB5P0GWb6yR91JfLwmhXl7v_vjIZJ0uO7vaImV-Apzhqz25YqduoS_7iw0dv82NvgeHxw=w640-h400-e365-rj-sc0x00ffffff',
     href: 'https://chrome.google.com/webstore/detail/tweet2audio/naafncepeohchljcfdjckafdhclikcce',
-  },
-  {
-    title: 'Spell Vault',
-    description: `Unlock the secrets of the web with Spellvault - the bot that brings you the most relevant posts for any keyword`,
-    imgSrc: 'https://spellvault.app/og.png',
-    href: 'https://spellvault.app'
   },
   {
     title: 'Rarity Score',
