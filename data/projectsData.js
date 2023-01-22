@@ -31,6 +31,12 @@ const projectsData = [
     href: 'https://chrome.google.com/webstore/detail/tweet2audio/naafncepeohchljcfdjckafdhclikcce',
   },
   {
+    title: 'Spell Vault',
+    description: `Unlock the secrets of the web with Spellvault - the bot that brings you the most relevant posts for any keyword`,
+    imgSrc: 'https://spellvault.app/og.png',
+    href: 'https://spellvault.app'
+  },
+  {
     title: 'Rarity Score',
     description: `Rarity Score is a tool to calculate the rarity of a NFT`,
     imgSrc:
