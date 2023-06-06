@@ -15,6 +15,7 @@ const projectsData = [
     title: 'Alertbuzz',
     description: `Uncover valuable leads seeking your offerings with our Telegram bot delivering real-time posts from Reddit, Twitter, and Hacker News`,
     imgSrc: 'https://alert.buzz/og.png',
+    href: 'https://t.me/alertbuzz_bot',
   },
   {
     title: '0xwall',
