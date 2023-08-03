@@ -14,7 +14,7 @@ export default function Projects() {
           </h1>
         </div>
         <div className="container py-12">
-          <div className="flex flex-col -m-4">
+          <div className="grid grid-cols-4 grid-flow-row -m-4">
             {projectsData.map((d) => (
               <Card
                 key={d.title}
@@ -22,6 +22,7 @@ export default function Projects() {
                 description={d.description}
                 imgSrc={d.imgSrc}
                 href={d.href}
+                ico={d.ico}
               />
             ))}
           </div>
