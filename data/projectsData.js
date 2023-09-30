@@ -14,6 +14,12 @@ const projectsData = [
     ico: 'https://focus.app/android-icon-144x144.png',
   },
   {
+    title: 'Jiffy Studio',
+    description: 'Edit videos by typing',
+    imgSrc: 'https://jiffy.studio/og.png',
+    href: 'https://jiffy.studio'
+  },
+  {
     title: 'Alertbuzz',
     description: `Uncover valuable leads seeking your offerings with our Telegram bot delivering real-time posts from Reddit, Twitter, and Hacker News`,
     imgSrc: 'https://alert.buzz/og.png',
