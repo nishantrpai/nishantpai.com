@@ -5,15 +5,15 @@
   "scripts": {
     "start": "next-remote-watch ./data",
     "dev": "next dev",
-    "build": "next build",
+    "build": "export SET NODE_OPTIONS=--openssl-legacy-provider && next build",
     "serve": "next start",
     "analyze": "cross-env ANALYZE=true next build",
     "lint": "next lint --fix --dir pages --dir components --dir lib --dir layouts --dir scripts",
     "prepare": "husky install"
   },
-  "engines" : { 
-    "npm" : ">=8.0.0 <9.0.0",
-    "node" : ">=16.0.0"
+  "engines": {
+    "npm": ">=8.0.0 <9.0.0",
+    "node": ">=18.0.0"
   },
   "dependencies": {
     "@tailwindcss/forms": "^0.3.2",
