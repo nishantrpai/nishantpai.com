@@ -60,6 +60,18 @@ const projectsData = [
     href: 'https://github.com/nishantrpai/rarity-score',
     ico: 'https://github.com/fluidicon.png',
   },
+  {
+    title: 'Focus control system',
+    description: 'A chrome extension to help you maintain focus',
+    href: 'https://chrome.focus.app',
+    imgSrc: 'https://focus.app/og.png',
+  },
+  {
+    title: 'GPT for self-learning',
+    description: 'Play with any skill you want and get better at it',
+    href: 'https://chat.openai.com/g/g-OswUv983K-value-quest',
+    imgSrc: 'https://focus.app/og.png'
+  }
 ]
 
 export default projectsData
