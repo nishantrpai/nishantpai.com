@@ -65,6 +65,12 @@ const projectsData = [
     description: 'A chrome extension to help you maintain focus',
     href: 'https://chrome.focus.app',
     imgSrc: 'https://focus.app/og.png',
+    ico: 'https://focus.app/android-icon-144x144.png',
+  },
+  {
+    title: 'Noises.fm',
+    description: 'A website for white noise',
+    href: 'https://noises.fm',
   },
   {
     title: 'GPT for self-learning',
