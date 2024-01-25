@@ -71,6 +71,7 @@ const projectsData = [
     title: 'Noises.fm',
     description: 'A website for white noise',
     href: 'https://noises.fm',
+    ico: 'https://noises.fm/favicon.ico'
   },
   {
     title: 'GPT for self-learning',
