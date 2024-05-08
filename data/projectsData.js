@@ -1,5 +1,12 @@
 const projectsData = [
   {
+    title: 'Tools',
+    description: 'Daily tools for practice',
+    imgrsc: '',
+    href: 'https://tools.nishu.dev',
+    ico: 'https://tools.nishu.dev/favicon.ico'
+  },
+  {
     title: 'GM Bot',
     description: `A Discord bot that reacts anytime someone says "GM". Includes features like customizing the reaction, and more.`,
     imgSrc: 'https://addgmbot.com/og.png',
