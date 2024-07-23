@@ -46,7 +46,6 @@ There are many countries that digital nomads can visit as a tourist and work. Fe
 
 - [Estonia]((https://e-estonia.com/digital-nomads-visa-shape-urban-employment)) offers a digital nomad to allow and digital nomad to come and liveby.
 
-- [Germany](https://www.germany-visa.org/freelance-visa/) has a freelancer visa.
 - [Australia](https://visagroup.com.au/digital-nomads-australian-tourist-visa/) offers a visa
 - [Costa Rica](http://www.costarica-embassy.org/index.php?q=node/72)
 - [Thailand](https://www.thaiembassy.sg/visa-matters-/-consular/types-of-visa/tourist-visa)
