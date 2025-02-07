@@ -1,9 +1,26 @@
+import { useState, useEffect } from 'react'
 import siteMetadata from '@/data/siteMetadata'
 import projectsData from '@/data/projectsData'
 import Card from '@/components/Card'
 import { PageSEO } from '@/components/SEO'
 
 export default function Projects() {
+  const [validProjects, setValidProjects] = useState([])
+
+  useEffect(() => {
+    const checkProjects = async () => {
+      const filtered = []
+      for (const p of projectsData) {
+        try {
+          const res = await fetch(p.href, { method: 'HEAD' })
+          if (res.status !== 404) filtered.push(p)
+        } catch {}
+      }
+      setValidProjects(filtered)
+    }
+    checkProjects()
+  }, [])
+
   return (
     <>
       <PageSEO title={`Projects - ${siteMetadata.author}`} description={siteMetadata.description} />
@@ -15,7 +32,7 @@ export default function Projects() {
         </div>
         <div className="container py-12">
           <div className="grid grid-cols-4 grid-flow-row -m-4">
-            {projectsData.map((d) => (
+            {validProjects.map((d) => (
               <Card
                 key={d.title}
                 title={d.title}
