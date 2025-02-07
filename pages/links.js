@@ -5,7 +5,7 @@ import Card from '@/components/Card'
 import { PageSEO } from '@/components/SEO'
 
 export default function Projects() {
-  const [validProjects, setValidProjects] = useState<any[]>([])
+  const [validProjects, setValidProjects] = useState([])
 
   useEffect(() => {
     const checkProjects = async () => {
