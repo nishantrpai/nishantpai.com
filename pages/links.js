@@ -5,7 +5,7 @@ import Card from '@/components/Card'
 import { PageSEO } from '@/components/SEO'
 
 export default function Projects() {
-  const [validProjects, setValidProjects] = useState([])
+  const [validProjects, setValidProjects] = useState<any[]>([])
 
   useEffect(() => {
     const checkProjects = async () => {
@@ -14,7 +14,7 @@ export default function Projects() {
         try {
           const res = await fetch(p.href, { method: 'HEAD' })
           if (res.status !== 404) filtered.push(p)
-        } catch {}
+        } catch (error) { /* ignore error */ }
       }
       setValidProjects(filtered)
     }
