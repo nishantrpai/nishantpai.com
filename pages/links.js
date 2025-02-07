@@ -14,7 +14,9 @@ export default function Projects() {
         try {
           const res = await fetch(p.href, { method: 'HEAD' })
           if (res.status !== 404) filtered.push(p)
-        } catch (error) { console.log(error) }
+        } catch (error) { 
+          console.log(error) 
+        }
       }
       setValidProjects(filtered)
     }
