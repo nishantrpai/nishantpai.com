@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "start": "next-remote-watch ./data",
-    "dev": "next dev",
+    "dev": "export SET NODE_OPTIONS=--openssl-legacy-provider && next dev",
     "build": "export SET NODE_OPTIONS=--openssl-legacy-provider && next build",
     "serve": "next start",
     "analyze": "cross-env ANALYZE=true next build",

@@ -4,14 +4,21 @@ const projectsData = [
     description: 'Daily tools for practice',
     imgrsc: '',
     href: 'https://tools.nishu.dev',
-    ico: 'https://tools.nishu.dev/favicon.ico'
+    ico: 'https://tools.nishu.dev/favicon.ico',
+  },
+  {
+    title: 'Games',
+    description: 'Daily tools for practice',
+    imgrsc: '',
+    href: 'https://games.nishu.dev',
+    ico: 'https://games.nishu.dev/favicon.ico',
   },
   {
     title: 'GM Bot',
     description: `A Discord bot that reacts anytime someone says "GM". Includes features like customizing the reaction, and more.`,
-    imgSrc: 'https://addgmbot.com/og.png',
-    href: 'https://addgmbot.com/',
-    ico: 'https://addgmbot.com/android-icon-144x144.png',
+    imgSrc: 'https://www.gm.bot/og.png',
+    href: 'https://www.gm.bot/',
+    ico: 'https://www.gm.bot/android-icon-144x144.png',
   },
   {
     title: 'focus',
@@ -19,12 +26,6 @@ const projectsData = [
     imgSrc: 'https://focus.app/og.png',
     href: 'https://focus.app/',
     ico: 'https://focus.app/android-icon-144x144.png',
-  },
-  {
-    title: 'Jiffy Studio',
-    description: 'Edit videos by typing',
-    imgSrc: 'https://jiffy.studio/og.png',
-    href: 'https://jiffy.studio'
   },
   {
     title: 'Alertbuzz',
@@ -39,18 +40,6 @@ const projectsData = [
     imgSrc: 'https://0xwall.app/og.png',
     href: 'https://0xwall.app/',
     ico: 'https://pbs.twimg.com/profile_images/1589587690038915072/rH5T5jA7_400x400.jpg',
-  },
-  {
-    title: '0xverify',
-    description: `Verify if a wallet is scam or not`,
-    imgSrc: 'https://0xverify.app/0xverify.png',
-    href: 'https://0xverify.app/',
-  },
-  {
-    title: '0xverify discord',
-    description: `Verify if a wallet is scam or not in discord. Protect members from scammers.`,
-    imgSrc: 'https://0xverify.app/0xverify_discord.png',
-    href: 'https://0xverify.app/discord',
   },
   {
     title: 'Tweet2Audio',
@@ -75,17 +64,11 @@ const projectsData = [
     ico: 'https://focus.app/android-icon-144x144.png',
   },
   {
-    title: 'Noises.fm',
-    description: 'A website for white noise',
-    href: 'https://noises.fm',
-    ico: 'https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://0xverify.app//&size=128'
-  },
-  {
     title: 'GPT for self-learning',
     description: 'Play with any skill you want and get better at it',
     href: 'https://chat.openai.com/g/g-OswUv983K-value-quest',
-    imgSrc: 'https://focus.app/og.png'
-  }
+    imgSrc: 'https://focus.app/og.png',
+  },
 ]
 
 export default projectsData

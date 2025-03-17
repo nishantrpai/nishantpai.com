@@ -8,19 +8,7 @@ export default function Projects() {
   const [validProjects, setValidProjects] = useState([])
 
   useEffect(() => {
-    const checkProjects = async () => {
-      const filtered = []
-      for (const p of projectsData) {
-        try {
-          const res = await fetch(p.href, { method: 'HEAD' })
-          if (res.status !== 404) filtered.push(p)
-        } catch (error) { 
-          console.log(error) 
-        }
-      }
-      setValidProjects(filtered)
-    }
-    checkProjects()
+    setValidProjects(projectsData)
   }, [])
 
   return (
