@@ -10,6 +10,7 @@ const Card = ({ title, description, imgSrc, href, ico }) => (
             ico ||
             `https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=${href}/&size=128`
           }
+          alt={`${title} icon`}
           width={128}
           style={{ margin: 'auto', marginBottom: 20, borderRadius: '5px' }}
         />
