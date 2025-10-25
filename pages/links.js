@@ -17,7 +17,8 @@ export default function Projects() {
   }, [])
 
   const totalARR = Object.values(arrData).reduce((sum, val) => sum + val, 0)
-  const progress = Math.min((totalARR / 1000000) * 100, 100)
+  const goal = 10000 // $10k goal
+  const progress = Math.min((totalARR / goal) * 100, 100)
 
   return (
     <>
@@ -33,7 +34,7 @@ export default function Projects() {
                 ARR Progress
               </div>
               <div className="text-sm text-gray-500 dark:text-gray-500">
-                ${totalARR.toLocaleString()} / $1M
+                ${totalARR.toLocaleString()} / $10k ({progress.toFixed(1)}%)
               </div>
             </div>
             <div className="w-full bg-gray-100 rounded-full h-1 dark:bg-gray-800">
