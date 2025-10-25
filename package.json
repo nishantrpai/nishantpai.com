@@ -39,6 +39,7 @@
     "remark-gfm": "^2.0.0",
     "remark-math": "^5.0.0",
     "sharp": "^0.28.3",
+    "stripe": "^19.1.0",
     "tailwindcss": "^2.2.2",
     "unist-util-visit": "^4.0.0",
     "webm": "^1.0.0"

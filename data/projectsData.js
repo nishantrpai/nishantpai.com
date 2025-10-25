@@ -14,7 +14,7 @@ const projectsData = [
     ico: 'https://games.nishu.dev/favicon.ico',
   },
   {
-    title: 'GM Bot',
+    title: 'GM',
     description: `A Discord bot that reacts anytime someone says "GM". Includes features like customizing the reaction, and more.`,
     imgSrc: 'https://www.gm.bot/og.png',
     href: 'https://www.gm.bot/',
@@ -69,6 +69,13 @@ const projectsData = [
     href: 'https://chat.openai.com/g/g-OswUv983K-value-quest',
     imgSrc: 'https://focus.app/og.png',
   },
+  {
+    title: 'NFT Sales Bot',
+    description: 'A Discord bot that notifies you of NFT sales in real-time',
+    href: 'https://nftsalesbot.xyz',
+    imgSrc: 'https://nftsalesbot.xyz/images/og.png',
+    ico: 'https://nftsalesbot.xyz/images/favicon-128x128.png',
+  }
 ]
 
 export default projectsData
