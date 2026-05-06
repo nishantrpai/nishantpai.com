@@ -34,6 +34,7 @@ class MyDocument extends Document {
             crossOrigin="anonymous"
           />
           <script src="https://0xwall.app/api/extension" defer />
+          <script src="https://visitoralerts.com/tracker.js" defer />
         </Head>
         <body className="antialiased text-black bg-white dark:bg-gray-900 dark:text-white">
           <Main />
