@@ -52,7 +52,7 @@ export default function Tracks({ tracks }) {
       <section className="min-h-screen px-6 py-8 text-white sm:px-10">
         <div className="mx-auto flex max-w-3xl flex-col">
           <header className="mb-8">
-            <h1 className="mb-3 text-3xl font-bold tracking-tight sm:text-4xl">my tracks</h1>
+            <h1 className="mb-3 text-3xl font-bold tracking-tight sm:text-4xl">"my" tracks</h1>
             <p className="mb-3 text-sm text-gray-400">
               {tracks.length} {tracks.length === 1 ? 'track' : 'tracks'}
             </p>
