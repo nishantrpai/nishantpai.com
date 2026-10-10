@@ -171,7 +171,7 @@ export default function Tracks({ tracks }) {
                     </svg>
                   )}
                 </button>
-                <span className="min-w-0 break-words">{track.name}</span>
+                <span className="min-w-0 break-words">{track.name}.mp3</span>
               </div>
             )
           })}
